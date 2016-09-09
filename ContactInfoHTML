@@ -1,0 +1,18 @@
+
+<html>
+
+<div class="container">  
+  <form id="contact" action="" method="post">
+    <h3>Sign Up For Our Newsletter</h3>
+    <h4>Preserve the volcanos!</h4>
+    <fieldset>
+      <input placeholder="Email" type="ejliberman@gmail.com" tabindex="2" required>
+    </fieldset>
+    <fieldset>
+      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+    </fieldset>
+  </form>
+  
+</div>
+<head>
+<title></title>
